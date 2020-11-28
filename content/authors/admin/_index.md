@@ -67,6 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Alamin. Currently, I am working as a Software Engineer at Samsung R&D Institute, Bangladesh. I have around three years of working experience as a Software Engineer in various domains such as Chromium Web Framework development, Backend Java Application development, Full stack web developer. I am interested in Software Security, Adversarial Machine learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
