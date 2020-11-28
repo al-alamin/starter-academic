@@ -17,28 +17,34 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software Engineer"
+  company = "Samsung R&D Institute Bangladesh"
+  company_url = "https://research.samsung.com/srbd"
+  location = "Dhaka, Bangladesh"
+  date_start = "2018-11-19"
+  date_end = ""
+  description = """Delivering new features with Web Engine team based on Chromium open-source project with  both agile and SDLC life-cycles of Web Engine that provides the platform for thousands of web apps from Samsung store. I have contributed to Googles’ Chromium Open source Browser project."""
+  
+[[experience]]
+  title = "Junior Software Engineer"
+  company = "Reve Systems Ltd"
+  company_url = "https://www.revesoft.com/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2017-10-01"
+  date_end = "2018-11-13"
+  description = """Developed various features for Java Based VOIP Proxy server application. Maintained the server and improved thread management and memory leakage which resulted in better performance and overall good call quality."""
+
+[[experience]]
+  title = "Full Stack Developer (Remote Job)"
+  company = "Higher Study Prep"
+  company_url = "https://higherstudyprep.com/"
+  location = "USA"
+  date_start = "2016-10-01"
+  date_end = "2017-07-01"
+  description = """Developed features such as GRE practice test , Social Authentication, Full text search and and maintained staging and deployment server."""
 
 +++
