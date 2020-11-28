@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/al-alamin/al-alamin.github.io.git
+	branch = master
