@@ -1,8 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "Undergraduate Thesis: Simulation Study of Vehicular Mobility in City Streets"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Md. Shohrab Hossain
+date: "2017-09-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Performance evaluation of vehicular network protocols require knowledge of different stochastic properties of the mobility model used in the evaluation. In this thesis work, the stochastic properties of vehicular mobility models in city has been modified and validated by popular simulator VANETSim which run simulation on real street map data. The developed model can be used as a generic framework for comprehensive analysis of other mobility models.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this thesis work, the stochastic properties of vehicular mobility models in city has been proposed and validated by popular simulator VANETSim which run simulation on real street map data.
 
 tags:
 - Source Themes
@@ -29,8 +30,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+  url: https://drive.google.com/open?id=1uxsrcyUA1Xt-Ekriyj3DmsysJKbahH-k
+url_pdf: https://drive.google.com/open?id=1uxsrcyUA1Xt-Ekriyj3DmsysJKbahH-k
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
