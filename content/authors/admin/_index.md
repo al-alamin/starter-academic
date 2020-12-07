@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-I am Alamin. Currently, I am working as a Software Engineer at Samsung R&D Institute, Bangladesh. I have around three years of working experience as a Software Engineer in various domains such as Chromium Web Framework development, Backend Java Application development, Full stack web developer. I am interested in Software Security, Adversarial Machine learning.
+Currently, I am working as a Software Engineer at Samsung R&D Institute, Bangladesh. I have around three years of working experience as a Software Engineer in various domains such as Chromium Web Framework development, Backend Java Application development, Full stack web developer. I am interested in designing and building privacy-preserving secured usable software. My research interest lies in the development, verification, testing,  and releasing of robust Machine Learning based Software Applications.
 
