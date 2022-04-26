@@ -1,14 +1,15 @@
 ---
-title: "A comprehensive survey on Security and Privacy threats of Bluetooth Low Energy in IoT and Wearable devices"
+title: "Security and Privacy Threats for Bluetooth Low Energy in IoT and Wearable Devices: A Comprehensive Survey"
 authors:
-- admin
-- Arup Barua 
+- Arup Barua
+- Md Abdullah Al Alamin
 - Md. Shohrab Hossain
+- Ekram Hossain
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2020-07-01T00:00:00Z"
-doi: ""
+date: "2022-02-07T00:00:00Z"
+doi: "10.1109/OJCOMS.2022.3149732"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -20,10 +21,10 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+# publication: "*Journal of Source Themes, 1*(1)"
+publication_short: "IEEE Open Journal of the Communications Society"
 
-abstract: Bluetooth Low Energy (BLE) has become the de facto communication protocol for Internet of Things (IoT) and smart wearable devices for its ultra-low energy consummation, ease of development, good enough network coverage, and data transfer speed. Due to the simplified design of this protocol, there have been lots of security and privacy vulnerabilities. As billions of health care, personal fitness wearable, smart lock, industrial automation devices adopt this technology for communication, its vulnerabilities should be dealt with high priority. Some segregated works on BLE were performed focusing various vulnerabilities, such as the insecure implementation of encryption, device authentication, user privacy, etc. However, there has been no comprehensive survey on the security vulnerabilities of this protocol. In this survey paper, we have presented a complete taxonomy of security and privacy issues of BLE. We have presented possible attack scenarios for different types of vulnerabilities, classified them according to their severity, and listed possible mitigation techniques. We have also provided case studies of these exploits on real BLE devices. Thus, we provide a complete manual of BLE security architecture for researchers, developers, and practitioners who are interested in contributing to improve this protocol. Our survey work highlights the importance of developing secured privacy preserved, feature-rich smart wearable, and IoT devices that will enrich our lives.
+abstract: Bluetooth Low Energy (BLE) has become the de facto communication protocol for theInternet of Things (IoT) and smart wearable devices for its ultra-low energy consumption, ease ofdevelopment, good enough network coverage, and data transfer speed. Due to the simplified design ofthis protocol, there have been lots of security and privacy vulnerabilities. As billions of health care, personalfitness wearable, smart lock, industrial automation devices adopt this technology for communication, itsvulnerabilities should be dealt with high priority. Some segregated works on BLE were performed focusingon various vulnerabilities, such as the insecure implementation of encryption, device authentication, userprivacy, etc. However, there has been no comprehensive survey on the security vulnerabilities of thisprotocol. In this survey paper, we present a comprehensive taxonomy for the security and privacy issuesof BLE. We present possible attack scenarios for different types of vulnerabilities, classify them accordingto their severity, and list possible mitigation techniques. We also provide case studies regarding howdifferent vulnerabilities can be exploited in real BLE devices.
 
 # Summary. An optional shortened abstract.
 summary: In this survey paper, we have presented a complete taxonomy of security and privacy issues of BLE. We have presented possible attack scenarios for different types of vulnerabilities, classified them according to their severity, and listed possible mitigation techniques.
@@ -35,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '#'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9706334'
 url_code: ''
 url_dataset: ''
 url_poster: ''

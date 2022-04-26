@@ -6,7 +6,7 @@ title: Md Abdullah Al Alamin
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant
+role: Graduate Research Assistant at Data Intensive Software Analytics Lab (DISA)
 
 # Organizations/Affiliations
 organizations:
@@ -14,11 +14,12 @@ organizations:
   url: "https://www.ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Software Engineering, Software Security, Natural Language Processing.
+bio: My research interests include Software Engineering, Software Security, Machine Learning.
 
 interests:
 - Software Engineering
 - Computer/Software Security
+- Adversarial Machine Learning
 - Big Data Analytics
 - Natural Language Processing
 
@@ -44,7 +45,7 @@ social:
   link: 
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?hl=en&user=JjDXHTUAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/al-alamin
@@ -67,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Currently, I am working as a Software Engineer at Samsung R&D Institute, Bangladesh. I have around three years of working experience as a Software Engineer in various domains such as Chromium Web Framework development, Backend Java Application development, Full stack web developer. I am interested in designing and building privacy-preserving secured usable software. My research interest lies in the development, verification, testing,  and releasing of robust Machine Learning based Software Applications.
+I am a graduate research assistant at the University of Calgary, Canada. I have around three years of working experience as a Software Engineer in various domains such as Chromium Web Framework development, Backend Java Application development, Full stack web developer. I am interested in designing and building privacy-preserving secured usable software. My research interest lies in developing, verifying, testing,  and releasing robust Machine Learning-based software applications.
 

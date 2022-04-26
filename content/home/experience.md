@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   company_url = "https://research.samsung.com/srbd"
   location = "Dhaka, Bangladesh"
   date_start = "2018-11-19"
-  date_end = ""
+  date_end = "2021-01-04"
   description = """Delivering new features with Web Engine team based on Chromium open-source project with  both agile and SDLC life-cycles of Web Engine that provides the platform for thousands of web apps from Samsung store. I have contributed to Googles’ Chromium Open source Browser project."""
   
 [[experience]]

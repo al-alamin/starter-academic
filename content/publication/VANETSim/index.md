@@ -29,16 +29,16 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: https://drive.google.com/open?id=1uxsrcyUA1Xt-Ekriyj3DmsysJKbahH-k
+# - name: Custom Link
+#   url: https://drive.google.com/open?id=1uxsrcyUA1Xt-Ekriyj3DmsysJKbahH-k
 url_pdf: https://drive.google.com/open?id=1uxsrcyUA1Xt-Ekriyj3DmsysJKbahH-k
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,7 +53,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- Research Project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
