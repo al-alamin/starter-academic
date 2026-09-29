@@ -1,0 +1,16 @@
+schema_version: 1
+summary: A customized personal academic website source fork based on the Hugo/Wowchemy
+  Academic template.
+state: unknown
+intended_readers:
+- Maintainers of the customized academic website source.
+consult_when:
+- Understanding the template origin or maintaining the local academic-site organization.
+watch_when:
+- Changes to Hugo/Wowchemy documentation, site configuration or academic content organization.
+current_capabilities:
+- README documents the Hugo/Wowchemy Academic template; config/, content/, assets/
+  and static/ are tracked.
+- Local commit/path history records profile, experience, publication and project customization,
+  establishing a personal academic-site purpose beyond the upstream template.
+planned_capabilities: []
